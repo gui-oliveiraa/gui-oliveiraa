@@ -1,7 +1,11 @@
 ## Hi there👋, I'm Guilherme
 
-![gui-oliveiraa's Stats](https://github-readme-stats.vercel.app/api?username=gui-oliveiraa&theme=radical&show_icons=true&hide_border=true&count_private=true)
-![gui-oliveiraa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gui-oliveiraa&theme=radical&hide_border=true)
+<div align="center">
+    <a href="https://github.com/gui-oliveiraa">
+        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gui-oliveiraa&theme=radical&show_icons=true&hide_border=true&count_private=true"/>
+        <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=gui-oliveiraa&theme=radical&hide_border=true"/>
+    </a>
+</div>
 
 <!--
 ![gui-oliveiraa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gui-oliveiraa&theme=radical&show_icons=true&hide_border=true&layout=compact)
